@@ -1,9 +1,8 @@
-<!-- [@]TODO:INICIO atualizar -->
-[AVA3]: <https://ava3.furb.br/course/view.php?id=36814&section=0> "AVA3"  
-[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
+[AVA3]: <https://ava3.furb.br/course/view.php?id=43859&section=0> "AVA3"  
+[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=43859&section=1> "Plano de Ensino"  
 [Cronograma]: <./cronograma.md> "Cronograma"  
-[Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
-[Prova de Suficiência (inscrição)]: <https://forms.office.com/r/3BD3DgMu8L> "Prova de Suficiência (inscrição)"
+[Monitoria]: <https://www.icloud.com/numbers/0aeNaFj7VQw9P50bGzNoiuR_g#Monitores_2024_2> "Monitoria"  
+[Prova de Suficiência (inscrição)]: <> "Prova de Suficiência (inscrição)"  <!-- [@]TODO:INICIO atualizar -->
 
 # Disciplina de Introdução à Programação
 
