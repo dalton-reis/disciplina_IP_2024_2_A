@@ -5,7 +5,7 @@
 -->
 [Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
 [Apresentação do Professor]: <https://github.com/dalton-reis/dalton-reis> "Apresentação do Professor"  
-[Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
+[Monitoria]: <https://www.icloud.com/numbers/0aeNaFj7VQw9P50bGzNoiuR_g#Monitores_2024_2> "Monitoria"  
 
 # Algumas anotações das aulas
 
