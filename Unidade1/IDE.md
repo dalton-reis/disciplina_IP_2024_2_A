@@ -72,13 +72,13 @@ Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello W
 
 ### VSCode
 
-<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/VSCode>  
+<https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/VSCode>  
 
 ### GIT (Controlador de Versão)
 
 E outro extensão que pode ser usada no VSCode permite "versionar" códigos após ter instalado o GIT. Todo o conteúdo de aula, inclusive os códigos de exemplo, serão disponibilizados na rede social mais adorada pelos nerds do mundo todo: o [Github!](<https://github.com>) Para mais informações:
 
-Um pouco sobre Versionamento de código pode ser visto em: <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git>.  
+Um pouco sobre Versionamento de código pode ser visto em: <https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/Git>.  
 
 <!-- [FIXME:]
 Para começar, comente abaixo apresentando-se e conte-nos o que você faz na área da computação.
