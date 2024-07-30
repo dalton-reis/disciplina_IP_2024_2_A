@@ -114,11 +114,14 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
     Fluxograma de uma rotina condicional simples
 
-![Diagrama de estados de uma rotina condicional simples](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/IP_Noturno_2023_2/main/Unidade1/imgs/ExemploCondicionalSimples.wsd "Diagrama de estados de uma rotina condicional simples")
+Diagrama de estados de uma rotina condicional simples  
+![ExemploCondicionalSimples](https://www.plantuml.com/plantuml/svg/ROr12u8m68Rl-nKlEsammLiTDWmpakXYtK92sYSDvXGtevyV9j6bw_i-F4_cGpE6gRCeNjGDjizxfytTzAwnPzCDbZm3ebKC8HIuqOqcIAGR3WQO5ZnQDYMHhcEEy237042eQnWdgi79tqTwqXXjzMH37_Fb5mfIoghObLMHNsxveSYFKahCOhAUljIrRQod-YyyeqwRbYs-Nof9zkKfIJuj8LIqYbb6Ja-TVGC0 "ExemploCondicionalSimples")  
 
     Fluxograma de uma rotina para achar o menor valor entre três valores
 
-![Diagrama de estados de uma rotina para achar o menor valor entre três valores](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/IP_Noturno_2023_2/main/Unidade1/imgs/ExemploOrdenarTresValores.wsd "Diagrama de estados de uma rotina para achar o menor valor entre três valores")
+Diagrama de estados de uma rotina para achar o menor valor entre três valores  
+![ExemploMetodoOrdenarTresValoresA](https://www.plantuml.com/plantuml/svg/VOvD3e8m48NNxIachbfS0JlG11SkYHlZdiWOIVf3feLu7u_YnKmRWcBKtRoPzzutbVCD-K4hsDzGzyhMw6rh3zIYQUX8w4wDieHknrcqSiQWK4XY3FjK1ZtBR2bpMKPx53KQIq5t5n1J6ZPRc8AG9FiaWSz3BYNuAneGhjEI0sFihGucLrg62og78CpZRiCRRvnihakNdEmVvnieYw05wPSrdwocxIxnkpWmSDxsd1NepeGZabZfa2fMi8PNYInvXQOTj7e2 "ExemploMetodoOrdenarTresValoresA")  
+![ExemploMetodoOrdenarTresValoresB](https://www.plantuml.com/plantuml/svg/fP5BQiCm48RNqYa6hso7BYJld0P28SlGJUdUL1CgiAGWEQ7twL5wiIBv8JknIg0xpUkR-N_jNTVOxg9QE7oXEhVcY9qHvjKAr8rzi-ZUczPOT2-KX5PAIDsYpQy-pGfAo1JnHLGLMzyRtaVKnb92Xa18CmMDDDOtoXFa0nIUTp00eImFPGctXQeeeFj43RcJoc-Txu6XYNbiuFQmsVJDy3Gjf1cdUIZ46yTy5QZOEeHS_toR9A1A07WFq4AUADoHeWtnNhQqWQTi0B9kHBynEi7-S69D2UihAI_kp4YxiS9W0sFqOq5BAQgIYlZ_5F775V775Kr_7Hu4N6VEbDJeFYnUqUQPyk9go3PHwYQ39r1-uImlfEdpVb_C-wZOqZrgSL7jBm00 "ExemploMetodoOrdenarTresValoresB")  
 
 ## Como fica na prática
 
