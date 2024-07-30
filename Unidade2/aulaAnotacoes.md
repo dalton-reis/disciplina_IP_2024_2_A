@@ -6,9 +6,8 @@
 
 # Algumas anotações das aulas  
 
-Mensagem "do dia", do programador ...  
-    Programadores .. analisem o problema antes.  Não saiam “chutando” tudo.  
-[programador](imgs/programador.mov "programador")  
+Programadores .. analisem o problema antes. Não saiam “chutando” tudo.  
+![programador](imgs/programador.mov "programador")  
 
 ## Rabiscos
 
@@ -99,7 +98,11 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 
 ![Formulário de estruturação de algoritmos](imgs/formularioDois.png "Formulário completo de estruturação de algoritmos")  
 
-## Algoritmos para práticar  
+## Algoritmos para praticar  
+
+> [!IMPORTANT]
+>
+> Na ciência da computação, a forma de comunicação precisa ser exata, precisa, inequívoca e com uma sintaxe correta.
 
 ### Problema 1 (Uni3Uri1002)  
 

@@ -64,6 +64,33 @@ Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello W
 
 - este texto é a mensagem que foi definida no programa "App.java" para ser escrito para o usuário … e … meus parabéns, já tens o PRIMEIRO programa em Java 😉.
 
+## VSCode Inlay Hints
+
+[VSCode: Inlay hints](vscodeInlayHints.md)  
+
+## VSCode - para saber mais
+
+### VSCode
+
+<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/VSCode>  
+
+### GIT (Controlador de Versão)
+
+E outro extensão que pode ser usada no VSCode permite "versionar" códigos após ter instalado o GIT. Todo o conteúdo de aula, inclusive os códigos de exemplo, serão disponibilizados na rede social mais adorada pelos nerds do mundo todo: o [Github!](<https://github.com>) Para mais informações:
+
+Um pouco sobre Versionamento de código pode ser visto em: <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git>.  
+
+<!-- [FIXME:]
+Para começar, comente abaixo apresentando-se e conte-nos o que você faz na área da computação.
+
+- <https://github.com/dalton-reis/IP_Noturno_2023_2/discussions>
+-->
+
+### OpenJDK Documentation
+
+Para se aprofundar mais em Java tem a documentação oficial do OpenJDK:
+[<http://devdocs.io/openjdk/>](<http://devdocs.io/openjdk/> "Documentação do OpenJDK")
+
 ## Ambiente de Desenvolvimento Versão Web
 
 [https://vscode.dev/](<https://vscode.dev/>)  
@@ -83,3 +110,8 @@ Lembrem, se fossem assim, não se precisaria mais ensinar matemática pois com c
 
 VSCode: <https://code.visualstudio.com/docs/editor/artificial-intelligence>  
 GitHub Copilot extension: <https://marketplace.visualstudio.com/items?itemName=GitHub.copilot>  
+
+## Outras opções
+
+Bom, existem muitas opções, e obviamente com o tempo vocês mesmo conseguiram decidir quais são melhores.
+E sempre aparecem mais e mais, sempre com novidades "futurísticas" (_I'll be back_!!).

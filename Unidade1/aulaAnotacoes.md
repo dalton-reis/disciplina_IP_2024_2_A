@@ -9,10 +9,9 @@
 
 # Algumas anotações das aulas
 
-Mensagem "do dia", do programador ...  
-    Deseja conhecer um pouco mais sobre o setor de informática na região ..  
-    Se inscreva e assista os PodCasts <https://linktr.ee/vishubfurb>  
-    ![Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
+Deseja conhecer um pouco mais sobre o setor de informática na região ..  
+Se inscreva e assista os PodCasts <https://linktr.ee/vishubfurb>  
+![DebugadosCompilados](imgs/DebugadosCompilados.png "DebugadosCompilados")  
 
 ## Rabiscos
 
@@ -115,11 +114,11 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
     Fluxograma de uma rotina condicional simples
 
-![Diagrama de estados de uma rotina condicional simples](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpMatA/main/Unidade1/imgs/ExemploCondicionalSimples.wsd "Diagrama de estados de uma rotina condicional simples")
+![Diagrama de estados de uma rotina condicional simples](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/IP_Noturno_2023_2/main/Unidade1/imgs/ExemploCondicionalSimples.wsd "Diagrama de estados de uma rotina condicional simples")
 
     Fluxograma de uma rotina para achar o menor valor entre três valores
 
-![Diagrama de estados de uma rotina para achar o menor valor entre três valores](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpMatA/main/Unidade1/imgs/ExemploOrdenarTresValores.wsd "Diagrama de estados de uma rotina para achar o menor valor entre três valores")
+![Diagrama de estados de uma rotina para achar o menor valor entre três valores](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/IP_Noturno_2023_2/main/Unidade1/imgs/ExemploOrdenarTresValores.wsd "Diagrama de estados de uma rotina para achar o menor valor entre três valores")
 
 ## Como fica na prática
 
