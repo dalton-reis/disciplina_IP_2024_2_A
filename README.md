@@ -31,8 +31,8 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 
 ## Links
 
-[Matriz curricular BCC](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_BCC.pdf> "Matriz curricular BCC")  
-[Matriz curricular SIS](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_SIS.pdf> "Matriz curricular SIS")  
+[Matriz curricular BCC](<https://www.furb.br/sites/default/files/2022-06/GRADE%20computaçao.pdf> "Matriz curricular BCC")  
+[Matriz curricular SIS](<https://www.furb.br/sites/default/files/2022-06/GRADE%20SISTEMAS%20DE%20INFO.pdf> "Matriz curricular SIS")  
 
 [AVA3]  
 [Plano de Ensino]  
