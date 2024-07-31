@@ -160,31 +160,32 @@ Fontes: [src](Unidade4/src "src")
   
 - comandos de controle de fluxo: seleção;  
   - grupo SE (if): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf").  
+    - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf").  
   
 ### [Aula_14](Unidade4/aulaAnotacoes.md#Aula_14 " 29-08-2024 quinta-feira ") 29-08-2024 quinta-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo SE - SENÃO (if - else): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
-  
-### [Aula_15](Unidade4/aulaAnotacoes.md#Aula_15 " 02-09-2024 segunda-feira ") 02-09-2024 segunda-feira
-  
+    - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf");  
 - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
+  
+### [Aula_15](Unidade4/aulaAnotacoes.md#Aula_15 " 02-09-2024 segunda-feira ") 02-09-2024 segunda-feira
+  
+Feriado: Município de Blumenau  
   
 ### [Aula_16](Unidade4/aulaAnotacoes.md#Aula_16 " 05-09-2024 quinta-feira ") 05-09-2024 quinta-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto").  
+    - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto").  
   
 ### [Aula_17](Unidade4/aulaAnotacoes.md#Aula_17 " 05-09-2024 quinta-feira ") 05-09-2024 quinta-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo ESCOLHA (switch): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoEscolha](Unidade4/atividadeAula.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
+    - [atividadeAula-GrupoEscolha](Unidade4/atividadeAula.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
   
 ### [Aula_18](Unidade4/aulaAnotacoes.md#Aula_18 " 09-09-2024 segunda-feira ") 09-09-2024 segunda-feira
   
@@ -203,6 +204,8 @@ Fontes: [src](Unidade4/src "src")
 ### [Aula_21](Unidade4/aulaAnotacoes.md#Aula_21 " 16-09-2024 segunda-feira ") 16-09-2024 segunda-feira
   
 - listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
+- revisão Prova1  
+<!-- [ ] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-80606270> -->  
   
 ### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo:  18-09-2024 quarta-feira
   
@@ -216,24 +219,27 @@ Fontes: [src](Unidade4/src "src")
   
 ### [Aula_22](Unidade4/aulaAnotacoes.md#Aula_22 " 19-09-2024 quinta-feira ") 19-09-2024 quinta-feira
   
-- revisão Prova1  
-<!-- [ ] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-80606270> -->  
+- Prova1  
+<!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
   
 ### [Aula_23](Unidade4/aulaAnotacoes.md#Aula_23 " 19-09-2024 quinta-feira ") 19-09-2024 quinta-feira
   
 - Prova1  
-<!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
-  
-### [Aula_24](Unidade4/aulaAnotacoes.md#Aula_24 " 23-09-2024 segunda-feira ") 23-09-2024 segunda-feira
-  
-- Prova1  
 <!-- - Prova 1 - parta B: [entrega](<@@@@> "entrega") no URI -->  
   
-### [Aula_25](Unidade5/aulaAnotacoes.md#Aula_25 " 26-09-2024 quinta-feira ") 26-09-2024 quinta-feira
+### [Aula_24](Unidade4/aulaAnotacoes.md#Aula_24 " 23-09-2024 segunda-feira ") 23-09-2024 segunda-feira
   
 - correção Prova1  
 - **liberar material** da próxima unidade (5).  
 <!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->  
+  
+### [Aula_25](Unidade5/aulaAnotacoes.md#Aula_25 " 26-09-2024 quinta-feira ") 26-09-2024 quinta-feira
+  
+INTERAÇÃO FURB (Dia letivo sem atividade intraclasse)  
+  
+### [Aula_26](Unidade5/aulaAnotacoes.md#Aula_26 " 26-09-2024 quinta-feira ") 26-09-2024 quinta-feira
+  
+INTERAÇÃO FURB (Dia letivo sem atividade intraclasse)  
   
 ### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo:  25-09-2024 quarta-feira
   
@@ -248,27 +254,17 @@ Fontes: [src](Unidade4/src "src")
 Ementa - comandos de controle de fluxo (Repetição): enquanto (`while`), para (`for`) e faça enquanto (`do - while`).  
 Fontes: [src](Unidade5/src "src")  
   
-### [Aula_26](Unidade5/aulaAnotacoes.md#Aula_26 " 26-09-2024 quinta-feira ") 26-09-2024 quinta-feira
-  
-- comandos de controle de fluxo: repetição;  
-  - grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
-  
 ### [Aula_27](Unidade5/aulaAnotacoes.md#Aula_27 " 30-09-2024 segunda-feira ") 30-09-2024 segunda-feira
   
-- comandos de controle de fluxo: repetição;  
-  - grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
-<!-- [ ] Aviso: conversa com os alunos <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55423467> -->  
-<!-- conversa com os alunos (individualmente) -->  
+Congresso SBGames/SVR/Sibgraphi (Manaus)  
   
 ### [Aula_28](Unidade5/aulaAnotacoes.md#Aula_28 " 03-10-2024 quinta-feira ") 03-10-2024 quinta-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
+Congresso SBGames/SVR/Sibgraphi (Manaus)  
   
 ### [Aula_29](Unidade5/aulaAnotacoes.md#Aula_29 " 03-10-2024 quinta-feira ") 03-10-2024 quinta-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
+Congresso SBGames/SVR/Sibgraphi (Manaus)  
   
 ### [Aula_30](Unidade5/aulaAnotacoes.md#Aula_30 " 07-10-2024 segunda-feira ") 07-10-2024 segunda-feira
   
@@ -276,28 +272,22 @@ Fontes: [src](Unidade5/src "src")
   
 ### [Aula_31](Unidade5/aulaAnotacoes.md#Aula_31 " 10-10-2024 quinta-feira ") 10-10-2024 quinta-feira
   
-- comandos de controle de fluxo: repetição;  
-  - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
-  - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
+[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
   
 ### [Aula_32](Unidade5/aulaAnotacoes.md#Aula_32 " 10-10-2024 quinta-feira ") 10-10-2024 quinta-feira
   
-- comandos de controle de fluxo: repetição;  
-  - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
-  - grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
-<!-- conversa com os alunos (individualmente) -->  
-- **liberar material** da próxima unidade (6).  
+[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
   
 ### [Aula_33](Unidade5/aulaAnotacoes.md#Aula_33 " 14-10-2024 segunda-feira ") 14-10-2024 segunda-feira
   
 - comandos de controle de fluxo: repetição;  
+  - grupo PARA (for): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
   - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
+    - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
   - grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
-  - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
+    - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
+- **liberar material** da próxima unidade (6).  
   
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo:  16-10-2024 quarta-feira
   
@@ -344,8 +334,7 @@ Fontes: [src](Unidade6/src "src")
   
 ### [Aula_39](Unidade6/aulaAnotacoes.md#Aula_39 " 28-10-2024 segunda-feira ") 28-10-2024 segunda-feira
   
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+Feriado FURB: Dia do Servidor Público  
   
 ### [Aula_40](Unidade7/aulaAnotacoes.md#Aula_40 " 31-10-2024 quinta-feira ") 31-10-2024 quinta-feira
   
@@ -362,6 +351,8 @@ Fontes: [src](Unidade6/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 <!-- - liberar exercícios unidade 5 e 6.  -->  
+- revisão Prova2  
+<!-- [ ] Aviso: Prova2: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83175633> -->  
   
 -----------  
   
@@ -369,36 +360,34 @@ Fontes: [src](Unidade6/src "src")
   
 ### [Aula_43](Unidade6/aulaAnotacoes.md#Aula_43 " 07-11-2024 quinta-feira ") 07-11-2024 quinta-feira
   
-- revisão Prova2  
-<!-- [ ] Aviso: Prova2: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83175633> -->  
+- Prova2  
+<!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
   
 ### [Aula_44](Unidade6/aulaAnotacoes.md#Aula_44 " 07-11-2024 quinta-feira ") 07-11-2024 quinta-feira
   
 - Prova2  
-<!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
-  
-### [Aula_45](Unidade6/aulaAnotacoes.md#Aula_45 " 11-11-2024 segunda-feira ") 11-11-2024 segunda-feira
-  
-- Prova2  
 <!-- - Prova 2 - parta B: [entrega](<@@@@> "entrega") no URI -->  
   
-### [Aula_46](TrabalhoFinal/aulaAnotacoes.md#Aula_46 " 14-11-2024 quinta-feira ") 14-11-2024 quinta-feira
+### [Aula_45](Unidade6/aulaAnotacoes.md#Aula_45 " 11-11-2024 segunda-feira ") 11-11-2024 segunda-feira
   
 - correção Prova2  
 <!-- [ ] Aviso: Prova2 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63075365> -->  
 <!-- [ ] Aviso: Trabalho Final: enunciado <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83236523> -->  
-  
 -----------  
   
 ## [TrabalhoFinal](TrabalhoFinal "TrabalhoFinal")  
   
 Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, mas com um enfoque maior na utilização de Matrizes.  
   
-### [Aula_47](TrabalhoFinal/aulaAnotacoes.md#Aula_47 " 14-11-2024 quinta-feira ") 14-11-2024 quinta-feira
+### [Aula_46](TrabalhoFinal/aulaAnotacoes.md#Aula_47 " 14-11-2024 quinta-feira ") 14-11-2024 quinta-feira
   
 <!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->  
 - enunciado do [TrabalhoFinal](TrabalhoFinal “TrabalhoFinal”)  
 - Exemplos de Matrizes: [src](TrabalhoFinal/src "src").  
+  
+### [Aula_47](TrabalhoFinal/aulaAnotacoes.md#Aula_48 " 14-11-2024 quinta-feira ") 14-11-2024 quinta-feira
+  
+- desenvolvimento do trabalho final.  
   
 ### [Aula_48](TrabalhoFinal/aulaAnotacoes.md#Aula_48 " 18-11-2024 segunda-feira ") 18-11-2024 segunda-feira
   
