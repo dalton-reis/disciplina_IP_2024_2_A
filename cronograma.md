@@ -268,15 +268,15 @@ Congresso SBGames/SVR/Sibgraphi (Manaus)
   
 ### [Aula_30](Unidade5/aulaAnotacoes.md#Aula_30 " 07-10-2024 segunda-feira ") 07-10-2024 segunda-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
+[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
   
 ### [Aula_31](Unidade5/aulaAnotacoes.md#Aula_31 " 10-10-2024 quinta-feira ") 10-10-2024 quinta-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
+[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
   
 ### [Aula_32](Unidade5/aulaAnotacoes.md#Aula_32 " 10-10-2024 quinta-feira ") 10-10-2024 quinta-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
+[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
   
 ### [Aula_33](Unidade5/aulaAnotacoes.md#Aula_33 " 14-10-2024 segunda-feira ") 14-10-2024 segunda-feira
   
