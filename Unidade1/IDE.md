@@ -20,6 +20,8 @@ Selecionar Temurin 21 (LTS) ou uma versão mais recente. Clique no Último Lanç
 
 selecione a opção em vermelho. Assim a variável do sistema JAVA_HOME fica definida para está instalação do Java … e depois, next, ..., finish.
 
+Se for preciso (geralmente não) se pode descobrir qual versão do está instalada usando: [javaVersao.md](javaVersao.md).  
+
 ### Instalando a IDE - VSCode
 
 A IDE a ser utilizada será o Microsoft Visual Studio Code (VSCode). Além do VSCode também será necessário instalar algumas **Extensions** (extensões) para trabalhar com a linguagem de programação definida (no caso o Java).
@@ -66,7 +68,7 @@ Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello W
 
 ## VSCode Inlay Hints
 
-[VSCode: Inlay hints](vscodeInlayHints.md)  
+[VSCode: Inlay hints](VSCode_JavaInlayHints/JavaInlayHints.md)  
 
 ## VSCode - para saber mais
 
