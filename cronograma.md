@@ -35,7 +35,7 @@
 Local: S-401  
 Dia da semana: Segundas (18:30\~20:10)  Quintas (18:30\~22:00)
   
-<!-- [ ] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
+<!-- [x] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
 ## [Unidade1](Unidade1 "Unidade1")  
   
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
@@ -51,7 +51,7 @@ Fontes: [src](Unidade1/src "src")
 - horário do monitor.  
 --  
 - **liberar material** das unidades 1 e 2.  
-<!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
+<!-- [x] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
 - visão geral dos fundamentos da programação de computadores.  
   
 ### [Aula_02](Unidade1/aulaAnotacoes.md#Aula_02 " 01-08-2024 quinta-feira ") 01-08-2024 quinta-feira
