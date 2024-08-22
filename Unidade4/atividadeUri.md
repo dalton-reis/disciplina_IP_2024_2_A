@@ -5,7 +5,7 @@ Olá, voltamos com mais uma atividade no URI para praticar a interpretação de 
 Bom, agora depois de vocês entrarem na disciplina com o nome **IP_NOTURNO_2023_2** no URI, no caso  
 
 <!-- [ ] INICIO atualizar - Link da Disciplina -->
-[https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403")  
+[https://bcwd.me/d-13196](<https://bcwd.me/d-13196> "https://bcwd.me/d-13196")  
 
 Resolvam os exercícios **Unidade 4 (Controle de Fluxo)**.
 
