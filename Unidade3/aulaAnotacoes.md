@@ -71,7 +71,7 @@ Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)
 ### [Atividades - URI](atividadeUri.md "Atividades - URI")
 
 - Apresentar o URI, mostrar como eles fazem para entrar na turma.  
-- Lembrar que devem utilizar o **Java 14 no URI**.  
+- Lembrar que devem utilizar o **Java 19 no URI**.  
 - Resolver os dois primeiros exercícios do URI no VSCode e depois colocar no URI.  
 - Para o Uni3Uri1002.java será necessário usar formatação, [DecimalFormat](/Exemplos/src/ExemploDecimalFormat.java "DecimalFormat").  
 
