@@ -23,7 +23,7 @@ Para fazer esta atividade siga esta sequência de passos:
 4) resolva o problema na linguagem Java usando os recursos do IDE VSCode - desenvolva o algoritmo;  
 5) copie o algoritmo do VSCode (selecionando todo o texto) para o editor do URI e cole o algoritmo desenvolvido;  
 6) IMPORTANTE, antes de enviar mude o nome da classe de "Uni3UriXXXX" para "Main";  
-7) confira se a numeração do problema está certa, e o tipo de linguagem (ATENÇÃO: usar Java 14 (OpenJDK 1.14.0));  
+7) confira se a numeração do problema está certa, e o tipo de linguagem (ATENÇÃO: usar Java 19;  
 8) pressione o botão enviar (abaixo na direita) ... e aguarde um tempinho :-) ... confira o resultado no botão do menu "SUBMISSÕES";  
 9) a linha do número do problema deve esta com resposta "Accepted" (cor verde) .. com a data/hora atual.  
 
