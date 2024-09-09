@@ -1,13 +1,13 @@
-//import java.util.Scanner;
-
-// 2 valores quem é menor é maior
+import java.util.Scanner;
 
 public class CaixaAreia {
 	public static void main(String[] args) {
-		// Scanner teclado = new Scanner(System.in);
-		int valorA = 15;		//maior
-		int valorB = 6;  		//menor
-		int valorC = 9;			//medio
+		Scanner teclado = new Scanner(System.in);
+		System.out.print("ValorA: "); int valorA = teclado.nextInt();
+		System.out.print("ValorB: "); int valorB = teclado.nextInt();
+		System.out.print("ValorC: "); int valorC = teclado.nextInt();
+
+		// variáveis internas
 		int valorMenor = 0;
 		int valorMedio = 0;
 		int valorMaior = 0;
@@ -48,6 +48,6 @@ public class CaixaAreia {
 		}
 		System.out.println("Menor: " + valorMenor + " - Medior: " + valorMedio+ " - Maior: " + valorMaior);
 
-		// teclado.close();
+		teclado.close();
 	}
 }
