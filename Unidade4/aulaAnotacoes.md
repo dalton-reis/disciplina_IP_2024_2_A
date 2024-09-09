@@ -105,7 +105,7 @@ Quando atribuímos o adjetivo dicotômico a alguma coisa, queremos dizer que ela
 - [ ] Uni4Exe20.java  
 - [ ] Uni4Exe21.java  
 <!-- TODO: tarefa, deixar uma parte e pedi para pensar em como terminar de resolver -->
-- [ ] [MetodoOrdenarTresValores](./src/ExemploMetodoOrdenarTresValores.java "MetodoOrdenarTresValores")
+- [ ] [MetodoOrdenarTresValores](./src/ExemploMetodoOrdenarTresValores.java "MetodoOrdenarTresValores") - [fluxograma](./fluxogramas/ExemploOrdenarTresValores.svg "Fluxograma")  
 
 ----------
 
