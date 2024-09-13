@@ -29,6 +29,7 @@ public class CalculadoraDiferenca {
 
       minutoResultado = minutoFinal - minutoInicial;
 
+      // _ agora volta para horas e minutos
       horasResultado = minutoResultado / 60;
       minutoResultado = minutoResultado % 60;
 
