@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class CaixaAreia {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
-    char continua = 's';
 
+    char continua = 's';
     while (continua == 's') {
       System.out.print("Valor1: ");
       double valor1 = teclado.nextInt();
