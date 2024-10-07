@@ -1,42 +1,35 @@
-/*
- calcula a media de duas notas até a nota 1 ser igual 99;
- */
 import java.util.Scanner;
 
 public class CaixaAreia {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
-    double nota1, nota2, media;
-    
-    
-    System.out.print("nota1:  "); nota1 = teclado.nextInt();
-    while (nota1 != 99) {
-      System.out.print("nota2:  "); nota2 = teclado.nextInt();
-      media = (nota1 + nota2) / 2;
-      System.out.println("média: " + media);      
-      System.out.print("nota1:  "); nota1 = teclado.nextInt();
-    }
+    char continua = 's';
 
-    nota1 = 0;
-    while (nota1 != 99) {
-      System.out.print("nota1:  "); nota1 = teclado.nextInt();
-      if (nota1 != 99) {
-        System.out.print("nota2:  "); nota2 = teclado.nextInt();
-        media = (nota1 + nota2) / 2;
-        System.out.println("média: " + media);              
-      }
-    }
+    while (continua == 's') {
+      System.out.print("Valor1: ");
+      double valor1 = teclado.nextInt();
+      System.out.print("Operador: ");
+      char operador = teclado.next().charAt(0);
+      System.out.print("Valor2: ");
+      double valor2 = teclado.nextInt();
+      double resultado = 0;
 
-    do {
-      System.out.print("nota1:  "); nota1 = teclado.nextInt();
-      if (nota1 != 99) {
-        System.out.print("nota2:  "); nota2 = teclado.nextInt();
-        media = (nota1 + nota2) / 2;
-        System.out.println("média: " + media);              
+      switch (operador) {
+        case '+':
+          resultado = valor1 + valor2;
+          break;
+        case '-':
+          resultado = valor1 - valor2;
+          break;
+        default:
+          System.out.println("Operação não válida!!");
+          break;
       }
-    } while (nota1 != 99);
+      System.out.println("Resultado: " + resultado);
+      System.out.println("Deseja continuar (s/n): ");
+      continua = teclado.next().charAt(0);
+    }
 
     teclado.close();
   }
 }
-
