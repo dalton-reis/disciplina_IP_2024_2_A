@@ -26,7 +26,7 @@ public class CaixaAreia {
           break;
       }
       System.out.println("Resultado: " + resultado);
-      System.out.println("Deseja continuar (s/n): ");
+      System.out.print("Deseja continuar (s/n): ");
       continua = teclado.next().charAt(0);
     }
 
