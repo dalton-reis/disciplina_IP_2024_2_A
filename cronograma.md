@@ -4,21 +4,21 @@
 
 [Unidade3_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=990626> "Unidade3_Questionário"
 [Unidade3_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=990627> "Unidade3_RespostasAtividadeAula"
-[Unidade3_RespostasAtividadeURI]: <> "Unidade3_RespostasAtividadeURI"
+<!-- [Unidade3_RespostasAtividadeURI]: <> "Unidade3_RespostasAtividadeURI" -->
 
-[Unidade4_Questionário]: <> "Unidade4_Questionário"
+<!-- [Unidade4_Questionário]: <> "Unidade4_Questionário" -->
 [Unidade4_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=990629> "Unidade4_RespostasAtividadeAula"
-[Unidade4_RespostasAtividadeURI]: <> "Unidade4_RespostasAtividadeURI"
+<!-- [Unidade4_RespostasAtividadeURI]: <> "Unidade4_RespostasAtividadeURI" -->
 
 [Prova1_Respostas_parteA]: <https://ava3.furb.br/mod/assign/view.php?id=990631> "Prova1_Respostas_parteA"
 
 [Unidade5_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=990633> "Unidade5_Questionário"
 [Unidade5_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=990634> "Unidade5_RespostasAtividadeAula"
-[Unidade5_RespostasAtividadeURI]: <> "Unidade5_RespostasAtividadeURI"
+<!-- [Unidade5_RespostasAtividadeURI]: <> "Unidade5_RespostasAtividadeURI" -->
 
 [Unidade6_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=990636> "Unidade6_Questionário"
 [Unidade6_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=990637> "Unidade6_RespostasAtividadeAula"
-[Unidade6_RespostasAtividadeURI]: <> "Unidade6_RespostasAtividadeURI"
+<!-- [Unidade6_RespostasAtividadeURI]: <> "Unidade6_RespostasAtividadeURI" -->
 
 [Prova2_Respostas]: <https://ava3.furb.br/mod/assign/view.php?id=990639> "Prova2_Respostas"
 
@@ -35,7 +35,7 @@
 Local: S-401  
 Dia da semana: Segundas (18:30\~20:10)  Quintas (18:30\~22:00)
   
-<!-- [x] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
+<!-- [ ] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
 ## [Unidade1](Unidade1 "Unidade1")  
   
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
@@ -51,7 +51,7 @@ Fontes: [src](Unidade1/src "src")
 - horário do monitor.  
 --  
 - **liberar material** das unidades 1 e 2.  
-<!-- [x] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
+<!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
 - visão geral dos fundamentos da programação de computadores.  
   
 ### [Aula_02](Unidade1/aulaAnotacoes.md#Aula_02 " 01-08-2024 quinta-feira ") 01-08-2024 quinta-feira
@@ -289,9 +289,9 @@ Congresso SBGames/SVR/Sibgraphi (Manaus)
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 - **liberar material** da próxima unidade (6).  
   
-### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo:  16-10-2024 quarta-feira
+### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo:  16-10-2024 quarta-feira
   
-<!-- FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); —>.   
+- [atividadeUri](Unidade4/atividadeUri.md "atividadeUri");  
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula");  
 - assistir as videoaulas da Unidade6;  
 - responder o [Unidade6_Questionário].  
