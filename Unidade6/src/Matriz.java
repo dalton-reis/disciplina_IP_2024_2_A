@@ -1,6 +1,9 @@
+// Pesquisar o maior valor em uma matriz de duas dimensões
+
 public class Matriz {
+
   private Matriz() {
-    int mat[][] = { {34,21},{3,8},{55,6}};
+    int mat[][] = { { 34, 21 }, { 3, 8 }, { 55, 6 } };
 
     int maiorValor = mat[0][0];
     for (int lin = 0; lin < 3; lin++) {
