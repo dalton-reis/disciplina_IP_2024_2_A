@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Uni6Exe10 {
   private Uni6Exe10() {
     Scanner teclado = new Scanner(System.in);
-    int vet[] = new int[5];  ///[FIXME:] CUIDADO é 50
+    int vet[] = new int[5]; /// [FIXME:] CUIDADO é 50
     int posFinal = 0;
 
     int opcao;
@@ -14,10 +14,12 @@ public class Uni6Exe10 {
       switch (opcao) {
         case 1: // 1 Incluir
           posFinal = vetIncluir_1(vet, teclado, posFinal);
-
           break;
         case 2: // 2 Pesquisa
-
+          if (vetPesquisa_2(vet, teclado))
+            System.out.println("achou");
+          else
+            System.out.println("não achou");
           break;
         case 3: // 3 Alterar
           break;
@@ -44,14 +46,25 @@ public class Uni6Exe10 {
   }
 
   private int vetIncluir_1(int vet[], Scanner teclado, int posFinal) {
-    System.out.print("Ler valor: ");
-    int valor = teclado.nextInt();
-    vet[posFinal] = valor;
-    posFinal+=1;
+    if (posFinal < vet.length) {
+      System.out.print("Ler valor: ");
+      int valor = teclado.nextInt();
+      vet[posFinal] = valor;
+      posFinal += 1;
+    } else
+      System.out.println("Vetor cheio!!");
     return posFinal;
   }
 
-  private void vetPesquisa_2() {
+  private boolean vetPesquisa_2(int vet[], Scanner teclado) {
+    System.out.print("Valor pesquisa: ");
+    int pesquisa = teclado.nextInt();
+    for (int i = 0; i < vet.length; i++) {
+      if (pesquisa == vet[i]) {
+        return true;
+      }
+    }
+    return false;
   }
 
   private void vetAlterar_3() {
