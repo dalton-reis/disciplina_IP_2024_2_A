@@ -10,13 +10,25 @@ Utilize o nome do arquivo Java e da Classe de acordo com o indicado no inicio de
 
 ### Uni5Exe01.java
 
-Descreva um algoritmo que leia 20 números inteiros e escreva, para cada número lido, se o mesmo é par ou ímpar.  
+Descreva um algoritmo que leia 20 números inteiros e escreva, para cada número lido, se o mesmo é par ou ímpar.
 
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| 10 | Par |
+| 63 | Ímpar |
+| 4 | Par |
+| ... | ... |
+  
 ----------
 
 ### Uni5Exe02.java
 
 Descreva um algoritmo que calcule e escreva a soma dos números pares e a soma dos números ímpares entre 1 e 100.  
+
+| Saída |
+| -------- |
+| Soma dos numeros pares: 2550 |
+| Soma dos numeros ímpares: 2500 |
 
 ----------
 
@@ -25,6 +37,8 @@ Descreva um algoritmo que calcule e escreva a soma dos números pares e a soma d
 Descreva um algoritmo que calcule e escreva a soma da seguinte série de 100 termos:  
 
   ![\normalsize&space;\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\cdots+\frac{1}{100](https://latex.codecogs.com/svg.latex?\normalsize&space;\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\cdots+\frac{1}{100})  
+
+Pense no resultado!
 
 ----------
 
@@ -36,6 +50,8 @@ Descreva um algoritmo para calcular o valor de **S** dado por:
 
 Considere os 20 primeiros termos da série.  
 
+Pense no resultado!
+
 ----------
 
 ### Uni5Exe05.java
@@ -46,17 +62,36 @@ Descreva um algoritmo que escreva os **n** primeiros termos da seguinte sequênc
 
 O valor **n** deve ser lido e deve ser maior do que 2.  
 
+Pense no resultado!
+
 ----------
 
 ### Uni5Exe06.java
 
 Descreva um algoritmo que leia a altura de 20 pessoas e calcule a média de altura das mesmas.  
 
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| Altura da pessoa 1: 1.85 | - |
+| Altura da pessoa 2: 1.58 | - |
+| Altura da pessoa 3: 1.67 | - |
+| ... | - |
+| Altura da pessoa 20: 1.90 | A média das alturas é: X |
+
 ----------
 
 ### Uni5Exe07.java
 
 Descreva um algoritmo que leia um número inteiro **n** e, dados **n** números reais informe o maior e o menor número.  
+
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| n = 3 | - |
+| 1.58 | - |
+| 5.20 | - |
+| 2.41 | - |
+| - | Maior número: 5.20 |
+| - | Menor número: 1.58 |
 
 ----------
 
@@ -67,6 +102,17 @@ Descreva um algoritmo que leia um número inteiro **n** e, dados **n** números 
 - escreva o menor valor negativo;  
 - escreva a média dos números positivos.  
 
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| n = 5 | - |
+| 2 | - |
+| -1 | - |
+| -8 | - |
+| 4 | - |
+| 3 | - |
+| - | Menor valor negativo: -8 |
+| - | Média dos números positivos: 3 |
+      
 ----------
 
 ### Uni5Exe09.java
@@ -76,6 +122,17 @@ Uma turma tem **n** alunos. Dado **n**, o nome e idade de cada aluno descreva um
 - escreva os nomes dos alunos que tem 18 anos;  
 - escreva a quantidade de alunos que tem idade acima de 20 anos.  
 
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| n = 5 | - |
+| Nome: Maria Idade: 18 | - |
+| Nome: Joana Idade: 26 | - |
+| Nome: Marcos Idade: 30 | - |
+| Nome: Pedro Idade: 18 | - |
+| Nome: Carla Idade: 21 | - |
+| - | Nomes dos alunos que tem 18 anos: Maria e Pedro |
+| - | Quantidade de alunos que tem idade acima de 20 anos: 3 |
+      
 ----------
 
 ### Uni5Exe10.java
@@ -94,7 +151,9 @@ Escreva um programa que pesquise e imprima os 10 primeiros números naturais que
 
 ### Uni5Exe11.java
 
-Uma máquina de biscoito está com problemas. Quando ligada, após 1 hora ela quebra 1 biscoito, na segunda hora ela quebra 3 biscoitos, na hora seguinte ela quebra 3 vezes a quantidade de biscoitos quebrados na hora anterior, e assim por diante. Faça um algoritmo que calcule quantos biscoitos são quebrados no final de cada dia (a máquina opera 16 horas por dia).  
+Uma máquina de biscoito está com problemas. Quando ligada, após 1 hora ela quebra 1 biscoito, na segunda hora ela quebra 3 biscoitos, na hora seguinte ela quebra 3 vezes a quantidade de biscoitos quebrados na hora anterior, e assim por diante. Faça um algoritmo que calcule quantos biscoitos são quebrados no final de cada dia (a máquina opera 16 horas por dia). 
+
+Pense no resultado!
 
 ----------
 
@@ -104,6 +163,8 @@ Escreva um programa que leia um número inteiro positivo **n** e em seguida impr
 
 ![Triangulo de Floyd](fluxogramas/TrianguloFloyd.svg)  
 
+Pense no resultado!
+
 ----------
 
 ### Uni5Exe13.java
@@ -112,6 +173,15 @@ Um motorista acaba de voltar de um feriado prolongado. Antes de sair de viagem e
 
 - a quilometragem obtida por litro de combustível em cada parada;  
 - a quilometragem média obtida por litro de combustível em toda a viagem.  
+
+
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| Número total de reabastecimentos: 3 | - |
+| Parada 1: Quilometragem: 120 km Combustível: 10 litros | Parada 1: 12.0 km por litro |
+| Parada 2: Quilometragem: 150 km Combustível: 15 litros | Parada 1: 10.0 km por litro |
+| Parada 3: Quilometragem: 200 km Combustível: 20 litros | Parada 1: 10.0 km por litro |
+| - | Quilometragem média obtida por litro: 10.44 |
 
 ----------
 
@@ -130,11 +200,26 @@ Um comerciante deseja fazer um levantamento do lucro das 20 mercadorias que come
 
 Dada uma turma de alunos, contendo seu nome e nota de duas provas descreva um algoritmo para informar a média de cada aluno. Considere que a leitura dos dados deve ser finalizada quando o nome do aluno for “fim”.  
 
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| Nome: Maria Nota 1: 6 Nota 2: 10 | A média do(a) Maria é 8.0 |
+| Nome: João Nota 1: 4 Nota 2: 8 | A média do(a) João é 6.0 |
+| Nome: fim | - |
+
 ----------
 
 ### Uni5Exe16.java
 
 Dado um determinado grupo de pessoas, descreva um algoritmo que a partir da altura e do gênero (gênero = 'M' ou gênero = 'm' para masculino; gênero = 'F' e gênero = 'f' para feminino ou gênero = 'O' ou gênero = 'o' para outro) de cada pessoa informe a média da altura das mulheres e a média de altura do grupo. A leitura deve ser finalizada ao digitar 0 para a altura.  
+
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| Altura: 1.85 Genero: M | - |
+| Altura: 1.58 Genero: F | - |
+| Altura: 1.67 Genero: f | - |
+| Altura: 1.90 Genero: O | - |
+| Altura: 0 | A média da altura das mulheres é: 1,62 |
+| - | A média de altura do grupo é: 1,75 |
 
 ----------
 
@@ -148,11 +233,37 @@ Descreva um algoritmo que leia o número de inscrição e a altura de um atleta 
 
 A leitura deve ser finalizada ao digitar 0 para o número de inscrição.  
 
+| Exemplo de entrada | Exemplo de saída |
+| -------- | -------- |
+| Nº de inscrição: 125 Altura: 1.85 | - |
+| Nº de inscrição: 248 Altura: 1.58 | - |
+| Nº de inscrição: 102 Altura: 1.67 | - |
+| Nº de inscrição: 300 Altura: 1.90 | - |
+| Nº de inscrição: 0 | O atleta mais baixo tem 1.58m e o seu número de inscrição é 248 |
+| - | O atleta mais alto tem 1.9m e o seu número de inscrição é 300 |
+| - | A altura média do grupo de atletas é: 1.75 |
+              
 ----------
 
 ### Uni5Exe18.java
 
 Foi feita uma pesquisa de audiência de canal de TV em **n** casas de um determinado bairro de uma cidade, em um certo dia do mês. Na pesquisa foi utilizado um coletor de dados portátil. Para cada casa visitada, foi fornecido o número do canal (4, 5, 9, 12) e o número de pessoas que estavam assistindo a TV naquele horário, considerando que em cada casa só existia uma televisão. Em casas onde a televisão estava desligada, foi registrado zero para o número do canal e para o número de pessoas. Baseado nisto descreva um algoritmo que calcule e escreva, para cada emissora, o percentual de audiência. A leitura deve ser finalizada quando for informado canal 0.  
+
+| Exemplo de entradas | - |
+| -------- | -------- |
+| Canal | Pessoas Assistindo |
+| 4 |	3 |
+| 5 |	2 |
+| 9	| 4 |
+| 12 | 1 |
+| 0 |	- |
+
+| Exemplo de saída |
+| -------- |
+| Percentual de audiência do canal 4: 30% |
+| Percentual de audiência do canal 5: 20% |
+| Percentual de audiência do canal 9: 40% |
+| Percentual de audiência do canal 12: 10% |
 
 ----------
 
@@ -160,11 +271,21 @@ Foi feita uma pesquisa de audiência de canal de TV em **n** casas de um determi
 
 Uma loja de departamentos oferece para seus clientes um determinado desconto de acordo com o valor da compra efetuada. O desconto é de 20% caso o valor da compra seja maior que R$ 500,00 e de 15% caso seja menor ou igual. Descreva um algoritmo que leia o valor da compra e escreva o total a pagar a cada compra. Informe também o valor total recebido pela loja ao final do dia. A leitura deve ser finalizada com a leitura 0 para o valor da compra.  
 
+| Exemplo de entradas | Exemplo de saída |
+| -------- | -------- |
+| Valor da compra: 600 | Valor a pagar: R$480,00 |
+| Valor da compra: 400 | Valor a pagar: R$340,00 |
+| Valor da compra: 200 | Valor a pagar: R$170,00 |
+| Valor da compra: 750 | Valor a pagar: R$600,00 |
+| Valor da compra: 0 | O valor total recebido foi de R$1590,00 |
+
 ----------
 
 ### Uni5Exe20.java
 
 Um determinado material radioativo perde metade de sua massa a cada 50 segundos. Dada a sua massa inicial em Kg, descreva um algoritmo que determine o tempo necessário para que essa massa se torne menor que 0,5 gramas. Escreva a massa inicial, a massa final e o tempo.  
+
+Pense no resultado!
 
 ----------
 
@@ -172,11 +293,15 @@ Um determinado material radioativo perde metade de sua massa a cada 50 segundos.
 
 Chico tem 1,50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1,10 metros e cresce 3 centímetros por ano. Construa um algoritmo que calcule e imprima quantos anos serão necessários para que Zé seja maior que Chico.  
 
+Pense no resultado!
+
 ----------
 
 ### Uni5Exe22.java
 
 Um funcionário recebe aumento anual. Em 1995 foi contratado por 2000 reais. Em 1996 recebeu aumento de 1.5%. A partir de 1997, os aumentos sempre correspondem ao dobro do ano anterior. Faça programa que determine o salário atual do funcionário.  
+
+Pense no resultado!
 
 ----------
 

@@ -4,7 +4,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 ## Tipos Estruturados
 
-### [Videoaula_6 (30:10)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EX_iq35CPStNi5sUo4-50lMBGlb13PLZwWYRJvCjZjciMg?e=SeiiIB> "link alternativo da videoaula da unidade 6")
+### [Videoaula_6 (30:10)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EVAFscJV7Z9MjEat-Z4QAKQBnGv4Erq0soopYDWYTXXQuA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vdqzxk> "link alternativo da videoaula da unidade 6")
 
 ### Tipo Estruturados: exemplos
 

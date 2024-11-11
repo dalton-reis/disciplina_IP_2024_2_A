@@ -4,7 +4,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 ## Comandos de Controle de Fluxo: Repetição
 
-### [Videoaula_5_1 (27:57)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/Ef5OfUf2PpBGjvq58tiSwS4BIheBeuTITeNlwfl-Wbxsaw?e=zXf9KK> "link alternativo da primeira videoaula da unidade 5")  
+### [Videoaula_5_1 (27:57)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EVu-9RAkTJJHvaL3vEU-gTgBJwCoaMUzOc_MMreCCNiI-g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=M50rtw> "link alternativo da primeira videoaula da unidade 5")  
 
 ### Comandos de Controle de Fluxo​: Repetição
 
@@ -81,7 +81,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 ## Introdução a Linguagem de Programação
 
-### [Videoaula_5_2 (18:12)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EQ4jF9-zHZZDo4auco41Rb0BJAhU3SLF1mVdNKuiQLwsRA?e=RWa2D5> "link alternativo da segunda videoaula da unidade 5")  
+### [Videoaula_5_2 (18:12)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/Eb-ZrT74SrVLi0bE2XKGNoEBmk_64EXlbbPzp3exNuUttQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=trhjTt> "link alternativo da segunda videoaula da unidade 5")  
 
 ### Comandos de Controle de Fluxo​: Repetição: enquanto (while / do while) - parte 1
 

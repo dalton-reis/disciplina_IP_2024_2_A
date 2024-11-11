@@ -4,7 +4,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 ## Introdução a Linguagem de Programação - Parte 1  
 
-### [Videoaula_3_1 (27:27)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EexdwuO8TYFOjqLwiIFsk-IB3gntjsEbsw8nT4hj2_MXRA?e=3QpaaU> "link alternativo da primeira videoaula da unidade 3")  
+### [Videoaula_3_1 (27:27)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/Ec0ecP6zFoxOnx90QWoiEboBGu1E8hmWJ2MHW7dn2NR6OA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=C28QIl> "link alternativo da primeira videoaula da unidade 3")  
 
 ### A Linguagem Java  
 
@@ -161,7 +161,7 @@ public class Principal {
 
 ## Introdução a Linguagem de Programação - Parte 2  
 
-### [Videoaula_3_2 (29:18)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/ERMgPFCa4U1Gv3qfgMUkXTQBOoGeRqWi9zpSga2SxyM0Ag?e=E5gofQ> "link alternativo da segunda videoaula da unidade 3")  
+### [Videoaula_3_2 (29:18)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/ETD2kmzU9qlBsYLsrLiy-tIBhg01eKFR1OLuNvEQLaHfsA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9mdUoB> "link alternativo da segunda videoaula da unidade 3")  
 
 ### Operadores em Java  
 

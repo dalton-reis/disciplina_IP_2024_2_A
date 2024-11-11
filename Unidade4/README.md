@@ -4,7 +4,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 ## Comandos de Controle de Fluxo: Seleção
 
-### [Videoaula_4 (34:10)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EUiFijgkOtVDsYNwu2NBgJcBnhp13gFvPzOwftgwh_4R9A?e=9djRWd> "link alternativo da videoaula da unidade 4")
+### [Videoaula_4 (34:10)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EZZmPdU2QVZJsmKg_saQCaoBOHCbUkp_-VmKYQLBB1jj2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZwIIPM> "link alternativo da videoaula da unidade 4")
 
 ### Comandos de Controle de Fluxo​: Seleção
 
