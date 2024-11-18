@@ -3,7 +3,7 @@ public class CaixaAreia {
 
   private CaixaAreia() { // construtor
     int numero = 17;              // endereço memória 105
-     int vetor[] = { 10,20,30 };   // endereço memória 130
+    int vetor[] = { 10,20,30 };   // endereço memória 130
 
     //         17    130
     testeAula(numero,vetor);

@@ -1,50 +1,47 @@
-// Faça um método para ler o vetor e outro, que retorne 
-// verdadeiro ou falso, para encontrar o valor.
-
 import java.util.Scanner;
 
 public class Uni6Exe06 {
   private Uni6Exe06() {
     Scanner teclado = new Scanner(System.in);
-    System.out.print("Tamanho vertor: ");
-    double vetor[] = new double[teclado.nextInt()];
+    System.out.print("Informe oo tamanho do vetor (N): ");
+    final int vetorTamanho = teclado.nextInt();
+    double vetor[] = new double[vetorTamanho];
 
-    // Ler vetor
-    vetorLer(vetor, teclado);
-    
-    // Valor pesquisa
-    System.out.print("Valor pesquisa: ");
-    double valorPesquisa = teclado.nextDouble();
+    vetorLer(teclado, vetor); // Ler vetor - popular
 
-    // Pesquisa vertor
-    boolean valorEncontrado = vetorPesquisa(vetor, valorPesquisa);
+    // Opção A
+    boolean achou;
+    achou = vetorPesquisa(teclado, vetor); // Pesquisar vetor
+    if (achou) {
+      System.out.println("Encontrou..");
+    }
 
-    if (valorEncontrado) {
-      System.out.println("Valor encontrado!!");
-    } else {
-      System.out.println("Valor NÃO encontrado!!");
+    // Opção B
+    if (vetorPesquisa(teclado, vetor)) {
+      System.out.println("Encontrou..");
     }
 
     teclado.close();
   }
 
-  // Vetor ler
-  private void vetorLer(double vetor[],Scanner teclado) {
+  // Ler vetor - popular
+  private void vetorLer(Scanner teclado, double vetor[]) {
     for (int i = 0; i < vetor.length; i++) {
-      System.out.print("Vetor[" + i + "]: ");
-      vetor[i] = teclado.nextDouble();
+      System.out.println("Valor: ");
+      vetor[i] = teclado.nextInt();
     }
   }
 
-  // Vetor pesquisa
-  private boolean vetorPesquisa(double vetor[],double valorPesquisa) {
-    boolean valorEncontrado = false;
+  // Pesquisa vetor
+  private boolean vetorPesquisa(Scanner teclado, double vetor[]) {
+    System.out.println("Informe valor a ser pesquisado: ");
+    double valorPesquisado = teclado.nextInt();
     for (int i = 0; i < vetor.length; i++) {
-      if (vetor[i] == valorPesquisa) {
-        valorEncontrado = true;
+      if (vetor[i] == valorPesquisado) {
+        return true;
       }
     }
-    return valorEncontrado;
+    return false;
   }
 
   public static void main(String[] args) {
